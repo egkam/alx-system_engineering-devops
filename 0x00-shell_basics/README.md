@@ -16,3 +16,4 @@ Print the type of the file named iamafile in /tmp
 Create a symbolic link to /bin/ls, named __ls__ in current directory
 Copy newer HTML files from current directory to the parent directory
 Move files beginning with an uppercase letter to the directory /tmp/u
+Ddelete files in the current working directory that end with the character ~
