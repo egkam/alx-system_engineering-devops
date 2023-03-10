@@ -19,3 +19,4 @@ Move files beginning with an uppercase letter to the directory /tmp/u
 Delete files in the current working directory that end with the character ~
 Create directories welcome/, welcome/to/ and welcome/to/school in the current directory
 List files and directories separated by , directories end with /
+Create a magic file school.mgc that can be used with the command file to detect School data files
