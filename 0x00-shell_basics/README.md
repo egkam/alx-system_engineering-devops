@@ -7,3 +7,4 @@ Display current directory contents in a long format
 Display current directory contents, including hidden files
 Display current directory contents - long format with hidden files
 Create my_first_directory on /tmp/
+Move file betty from /tmp/ to /tmp/my_first_directory
