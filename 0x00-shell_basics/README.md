@@ -13,3 +13,4 @@ Delete the directory my_first_directory in /tmp directory
 Change the working directory to the previous one
 List current directory, parent of the working directory and the /boot directory in long format with hidden files
 Print the type of the file named iamafile in /tmp
+Create a symbolic link to /bin/ls, named __ls__ in current directory
