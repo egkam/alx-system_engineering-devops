@@ -5,3 +5,4 @@ Shell Redirections Scripts
 2. Display contents of /etc/passwd 
 Display contents of /etc/passwd and /etc/hosts
 4. Display last 10 lines of /etc/passwd
+Display first 10 lines of /etc/passwd
