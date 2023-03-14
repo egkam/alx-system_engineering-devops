@@ -1,5 +1,5 @@
-Create my first engineering devops
-Shell redirections
+Shell Redirections Scripts
 
-1. Hello, World
-2. Confused smiley
+0. Hello, World
+1. Confused smiley
+2. Display contents of /etc/passwd 
