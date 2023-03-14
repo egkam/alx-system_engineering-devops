@@ -4,3 +4,4 @@ Shell Redirections Scripts
 1. Confused smiley
 2. Display contents of /etc/passwd 
 Display contents of /etc/passwd and /etc/hosts
+4. Display last 10 lines of /etc/passwd
