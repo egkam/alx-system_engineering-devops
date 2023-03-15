@@ -9,3 +9,4 @@ Display the first 10 lines of /etc/passwd
 6. Display the third line of the file iacta
 7. Create a file named \*\'Best School\'\*$\?\*\*\*\*\*:)
 8. Write into the file ls_cwd_content the result of the command ls -la
+9. Duplicate the last line of the file iacta
