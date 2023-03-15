@@ -6,3 +6,4 @@ Shell Redirections Scripts
 3. Display the content of /etc/passwd and /etc/hosts files.
 Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
+6. Display the third line of the file iacta
