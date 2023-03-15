@@ -7,3 +7,4 @@ Shell Redirections Scripts
 Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 6. Display the third line of the file iacta
+7. Create a file named \*\'Best School\'\*$\?\*\*\*\*\*:)
